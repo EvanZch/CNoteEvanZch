@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/CNoteEvanZch.dir/zhizhen.c.obj"
   "CMakeFiles/CNoteEvanZch.dir/main.c.obj"
   "CNoteEvanZch.pdb"
   "CNoteEvanZch.exe"

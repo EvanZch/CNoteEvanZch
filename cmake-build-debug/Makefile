@@ -149,6 +149,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles\CNoteEvanZch.dir\build.make CMakeFiles/CNoteEvanZch.dir/main.c.s
 .PHONY : main.c.s
 
+zhizhen.obj: zhizhen.c.obj
+
+.PHONY : zhizhen.obj
+
+# target to build an object file
+zhizhen.c.obj:
+	$(MAKE) -f CMakeFiles\CNoteEvanZch.dir\build.make CMakeFiles/CNoteEvanZch.dir/zhizhen.c.obj
+.PHONY : zhizhen.c.obj
+
+zhizhen.i: zhizhen.c.i
+
+.PHONY : zhizhen.i
+
+# target to preprocess a source file
+zhizhen.c.i:
+	$(MAKE) -f CMakeFiles\CNoteEvanZch.dir\build.make CMakeFiles/CNoteEvanZch.dir/zhizhen.c.i
+.PHONY : zhizhen.c.i
+
+zhizhen.s: zhizhen.c.s
+
+.PHONY : zhizhen.s
+
+# target to generate assembly for a file
+zhizhen.c.s:
+	$(MAKE) -f CMakeFiles\CNoteEvanZch.dir\build.make CMakeFiles/CNoteEvanZch.dir/zhizhen.c.s
+.PHONY : zhizhen.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,6 +188,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... zhizhen.obj
+	@echo ... zhizhen.i
+	@echo ... zhizhen.s
 .PHONY : help
 
 

@@ -1,0 +1,16 @@
+### 预处理
+
+gcc -E main.c -o main.i
+
+### 编译阶段
+生成汇编语言
+gcc -S main.i -o main.s
+
+
+### 汇编阶段
+
+gcc -c main.s -o main.o
+
+### 链接阶段
+
+gcc main.o -o main.exe

@@ -77,6 +77,9 @@
 		<Unit filename="F:/CWorkSpace/CNoteEvanZch/main.c">
 			<Option target="CNoteEvanZch"/>
 		</Unit>
+		<Unit filename="F:/CWorkSpace/CNoteEvanZch/zhizhen.c">
+			<Option target="CNoteEvanZch"/>
+		</Unit>
 		<Unit filename="F:/CWorkSpace/CNoteEvanZch/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

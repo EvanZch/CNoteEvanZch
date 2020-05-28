@@ -3,3 +3,5 @@
 
 CMakeFiles/CNoteEvanZch.dir/main.c.obj: ../main.c
 
+CMakeFiles/CNoteEvanZch.dir/zhizhen.c.obj: ../zhizhen.c
+
