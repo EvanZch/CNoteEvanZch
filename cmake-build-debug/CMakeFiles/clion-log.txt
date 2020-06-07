@@ -1,4 +1,11 @@
-"E:\Android_Tools\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\CWorkSpace\CNoteEvanZch
+E:\Android\Tools\Cygwin\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/h/WorkingSpace/Clion/CNoteEvanZch
+-- The C compiler identification is GNU 7.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: F:/CWorkSpace/CNoteEvanZch/cmake-build-debug
+-- Build files have been written to: /cygdrive/h/WorkingSpace/Clion/CNoteEvanZch/cmake-build-debug

@@ -4,8 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "F:/CWorkSpace/CNoteEvanZch/main.c" "F:/CWorkSpace/CNoteEvanZch/cmake-build-debug/CMakeFiles/CNoteEvanZch.dir/main.c.obj"
-  "F:/CWorkSpace/CNoteEvanZch/zhizhen.c" "F:/CWorkSpace/CNoteEvanZch/cmake-build-debug/CMakeFiles/CNoteEvanZch.dir/zhizhen.c.obj"
+  "/cygdrive/h/WorkingSpace/Clion/CNoteEvanZch/main.c" "/cygdrive/h/WorkingSpace/Clion/CNoteEvanZch/cmake-build-debug/CMakeFiles/CNoteEvanZch.dir/main.c.o"
+  "/cygdrive/h/WorkingSpace/Clion/CNoteEvanZch/zhenzhen2.c" "/cygdrive/h/WorkingSpace/Clion/CNoteEvanZch/cmake-build-debug/CMakeFiles/CNoteEvanZch.dir/zhenzhen2.c.o"
+  "/cygdrive/h/WorkingSpace/Clion/CNoteEvanZch/zhizhen.c" "/cygdrive/h/WorkingSpace/Clion/CNoteEvanZch/cmake-build-debug/CMakeFiles/CNoteEvanZch.dir/zhizhen.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
